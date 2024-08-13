@@ -1,21 +1,22 @@
 /*   STEP 1   */
-export const leagueID = "1098335789936713728"; // your league ID
-export const leagueName = "Gurley Men League"; // your league name
+export const leagueID = "1129084323451244544"; // your league ID
+export const leagueName = "Fantasy football 2024/25"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-<p><strong>Welcome to the Gurley Men League</strong></p>
+<p><strong>Welcome to the Inaugural Season of Our League</strong></p>
 
-<p>For nearly a decade, the Gurley Men League has been the ultimate battleground where football knowledge meets strategy, and legends are born. As a 12-person keeper league, our competition is fierce, our rivalries are storied, and our commitment to the game is unparalleled.</p>
+<p>This year marks the beginning of something special—a fantasy football league where the Schwartzs and Grossbards take center stage, covering half the roster. With a 12-person lineup and a super flex, half PPR format, the competition is set to be fierce and exciting from the very first snap.</p>
 
-<p>At the helm of our league is our commissioner, Gideon Reiz, who currently reigns as the champion. With his title on the line and every manager hungry for victory, this Saturday night's draft is set to be the most intense yet. Every pick counts, every decision matters, and the pursuit of fantasy glory is relentless.</p>
+<p>As we kick off this inaugural season, under the watchful eye of our commissioner, Akiva Schwartz, we look forward to establishing traditions, building rivalries, and setting the foundation for a league that will thrive for years to come.</p>
 
-<p>Whether you're defending your legacy or aiming to dethrone the reigning champ, this season promises to be one for the ages.</p>
+<p>This is more than just a fantasy league; it's the start of a new chapter, a fresh opportunity to prove your football acumen, and a chance to create memories that will last a lifetime. Let's make this first year one to remember and set the standard for the seasons to follow.</p>
 
-<p>Get ready to draft, trade, and compete with the best. The Gurley Men League isn't just a fantasy football league—it's a tradition.</p>
+<p>Get ready for a season full of surprises, strategy, and excitement. Here's to a great start and many more years of fantasy football excellence!</p>
+
 
 `;
 
