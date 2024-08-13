@@ -1,18 +1,22 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "1098335789936713728"; // your league ID
+export const leagueName = "Gurley Men League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p><strong>Welcome to the Gurley Men League</strong></p>
+
+<p>For nearly a decade, the Gurley Men League has been the ultimate battleground where football knowledge meets strategy, and legends are born. As a 12-person keeper league, our competition is fierce, our rivalries are storied, and our commitment to the game is unparalleled.</p>
+
+<p>At the helm of our league is our commissioner, Gideon Reiz, who currently reigns as the champion. With his title on the line and every manager hungry for victory, this Saturday night's draft is set to be the most intense yet. Every pick counts, every decision matters, and the pursuit of fantasy glory is relentless.</p>
+
+<p>Whether you're defending your legacy or aiming to dethrone the reigning champ, this season promises to be one for the ages.</p>
+
+<p>Get ready to draft, trade, and compete with the best. The Gurley Men League isn't just a fantasy football league—it's a tradition.</p>
+
 `;
 
 /*   STEP 3   */
